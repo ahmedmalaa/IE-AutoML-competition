@@ -4,6 +4,8 @@ This repository provides instructions for participants engaging in the *Inspirat
 
 ## Robustness of AutoML to dataset shifts
 
+Generalization performance of machine learning models is significantly affected by distributional mismatches between training and testing data. The sources for these distributional shifts vary depending on the application: the process being modeled may change over time, or the source of the training data may not be representative of the environment in which a model would be deployed. Designing machine learning models that are robust to distributional shift, e.g., models that are trained to work well even if the distribution of testing data differs from training data, is a key objective in many applications. 
+
 
 ## Instructions for particpating
 
