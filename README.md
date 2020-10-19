@@ -13,7 +13,7 @@ In the first [two IE sessions](https://www.vanderschaar-lab.com/engagement-sessi
 
 ### Overview and requirements
 
-Participants are asked to modify the source code for AutoPrognosis to make it robust to distributional shift. Participants are provided with a training data set for binary classification, with features $X$ and binary labels $Y$. The features $X$ in the training data follow a certain distribution $P(X)$. Each participants will apply their modified AutoPrognosis to train a model that is "insensitive" to changes in $P(X)$ and submit their trained models to us. We will then test the submitted models on a number of testing sets (not accessible to participants ahead of time), each with a perturbed feature distribution $P\prime(X)$, and average the models' performance scores over these perturbed testing sets. The winning model will be the one with the highest average accuracy over the perturbed testing sets.
+Participants are asked to modify the source code for AutoPrognosis to make it robust to distributional shift. Participants are provided with a training data set for binary classification, with features $`X`$ and binary labels $`Y`$. The features $`X`$ in the training data follow a certain distribution $`P(X)`$. Each participants will apply their modified AutoPrognosis to train a model that is "insensitive" to changes in $`P(X)`$ and submit their trained models to us. We will then test the submitted models on a number of testing sets (not accessible to participants ahead of time), each with a perturbed feature distribution $`P\prime(X)`$, and average the models' performance scores over these perturbed testing sets. The winning model will be the one with the highest average accuracy over the perturbed testing sets.
 
 ### Software
 
