@@ -1,2 +1,3 @@
-# Inspiration-exchange-AutoML-competition
+# The Inspiration Exchange AutoML Competition
+
 Details for the AutoML competition 
