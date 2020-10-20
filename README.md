@@ -50,6 +50,6 @@ Please send these deliverables to both: ahmedmalaa@ucla.edu and nm736@cam.ac.uk
 
 ### Competition winners
 
-The winner will be announced and acknowledged on the vanderschaar lab website and will receive a signed certificate from Prof. van der Schaar acknowledging their achievement.
+The winner will be announced and acknowledged on the vanderschaar lab website and will receive a $100 Amazon voucher.
 
 
