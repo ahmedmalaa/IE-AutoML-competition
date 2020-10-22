@@ -19,7 +19,7 @@ Participants are asked to modify the source code for AutoPrognosis to make it ro
 
 Participants are required to use the AutoPrognosis software from this [repository](https://github.com/ahmedmalaa/AutoPrognosis).
 
-Installation instructions can be found [here](https://github.com/ahmedmalaa/AutoPrognosis/blob/master/doc/install.md).
+Installation instructions can be found [here](https://github.com/ahmedmalaa/AutoPrognosis/blob/master/doc/install.md). A tutorial on how to use the software can be found [here](https://www.youtube.com/watch?v=HhMW_3YG3Ug&feature=youtu.be&ab_channel=vanderSchaarLab).
 
 To modify AutoPrognosis, you can simply come up with a different objective function for the Bayesian optimization algorithm. This can be done by modifying line 345 in [model.py](https://github.com/ahmedmalaa/AutoPrognosis/blob/master/alg/autoprognosis/model.py), i.e.,
 
